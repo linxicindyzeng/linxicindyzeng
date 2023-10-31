@@ -1,5 +1,5 @@
 - Hi, this is Cindy!
-- I am an aspiring economist interested in labor, education, inequality and causal inference.
+- I am an aspiring economist interested in applied microeconomics, labor, education, inequality and causal inference.
 - I am currently an undergraduate at Yale University and The Chinese University of Hong Kong, Shenzhen.
 - You can reach me at linxi.zeng@yale.edu :)
 
