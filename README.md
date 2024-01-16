@@ -1,6 +1,6 @@
 - Hi, this is Cindy!
-- I am an aspiring economist interested in applied microeconomics, health, labor, education, inequality and causal inference.
-- I am currently an undergraduate at Yale University and The Chinese University of Hong Kong, Shenzhen.
+- I am an aspiring economist interested in applied microeconomics, health, media, and education.
+- I am currently an undergraduate at The Chinese University of Hong Kong, Shenzhen and Yale University.
 - You can reach me at linxi.zeng@yale.edu :)
 
 <!---
